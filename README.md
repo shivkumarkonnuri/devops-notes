@@ -102,7 +102,7 @@ I am currently focusing on:
 If you're interested in DevOps, Linux, or cloud infrastructure, feel free to connect:
 
 - GitHub: https://github.com/shivkumarkonnuri
-- LinkedIn: (Add your LinkedIn profile link here)
+- LinkedIn: https://www.linkedin.com/in/shivkumar-konnuri
 
 ---
 
