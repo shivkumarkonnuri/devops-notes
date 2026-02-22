@@ -234,7 +234,7 @@ docker logs $CONTAINER_ID / $NAMES
 
 ![alt text](image-8.png)
 
-Run a command inside a running container
+5. Run a command inside a running container
 
 ```bash
 docker exec -it $CONTAINER_ID bash
